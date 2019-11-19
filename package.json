@@ -1,0 +1,12 @@
+{
+  "name": "ps-halogen-svg",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:lisphacker/ps-halogen-svg.git",
+  "author": "Gautham Ganapathy <gauthamg@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "purescript": "^0.13.5",
+    "spago": "^0.12.1"
+  }
+}
