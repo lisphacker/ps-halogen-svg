@@ -1,2 +1,2 @@
-# ps-halogen-svg
+* ps-halogen-svg
 PureScript Halogen SVG experiments
